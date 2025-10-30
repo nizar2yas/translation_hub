@@ -3,3 +3,5 @@ google-cloud-translate
 google-cloud-storage
 streamlit
 requests
+streamlit-google-auth
+google-cloud-secret-manager
